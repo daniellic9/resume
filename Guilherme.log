@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  3 JUL 2015 02:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  3 JUL 2015 02:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,47 +676,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 54.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 60.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 60.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 60.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 72.
+(babel)             in language  on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 55.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 55.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 80.
+(babel)             in language  on input line 73.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 82.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 83.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 87.
 
-Overfull \hbox (21.80588pt too wide) in paragraph at lines 88--88
+Overfull \hbox (21.80588pt too wide) in paragraph at lines 89--89
 [][]
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./Guilherme.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `Guilherme.out' has not changed.
-(rerunfilecheck)             Checksum: E9656F5D1FC254F476B1B5EEE4A0C0CC;420.
+(rerunfilecheck)             Checksum: F871459E6AA8DF1C3DBE98765B62FD22;526.
  ) 
 Here is how much of TeX's memory you used:
- 11572 strings out of 494964
- 166374 string characters out of 6179674
+ 11575 strings out of 494964
+ 166423 string characters out of 6179674
  283496 words of memory out of 5000000
- 14646 multiletter control sequences out of 15000+600000
- 56211 words of font info for 48 fonts, out of 8000000 for 9000
+ 14649 multiletter control sequences out of 15000+600000
+ 58995 words of font info for 49 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  42i,11n,53p,775b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme.dvi (1 page, 7644 bytes).
+Output written on Guilherme.dvi (1 page, 8088 bytes).
