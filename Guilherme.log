@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  14 MAR 2016 15:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  10 JUL 2016 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ Babel <3.9h> and hyphenation patterns for 5 languages loaded.
 (./moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
 ocument class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
@@ -417,7 +417,10 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(./moderncvstyleclassic.sty
+(./moderncvstylecasual.sty
+Package: moderncvstylecasual 2012/10/31 v1.2.0 modern curriculum vitae and lett
+er style scheme: casual
+ (./moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2012/10/31 v1.2.0 modern curriculum vitae and let
 ter style scheme: classic
 \quotewidth=\skip55
@@ -436,6 +439,11 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 78.
 \cvitemwithcommentmainbox=\box26
 \cvitemwithcommentmainlength=\skip65
 \cvitemwithcommentcommentlength=\skip66
+)
+\footerbox=\box27
+\footertempbox=\box28
+\footerwidth=\skip67
+\footerboxwidth=\skip68
 )
 (./moderncvcolorblue.sty
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
@@ -553,7 +561,7 @@ File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pdfmark.def
 File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
 \pdf@docset=\toks22
-\pdf@box=\box27
+\pdf@box=\box29
 \pdf@toks=\toks23
 \pdf@defaulttoks=\toks24
 \HyField@AnnotCount=\count97
@@ -565,35 +573,35 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip69
 ))
-Package hyperref Info: Option `breaklinks' set `true' on input line 50.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 50.
+Package hyperref Info: Option `breaklinks' set `true' on input line 51.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
 
 (./Guilherme.aux)
 \openout1 = `Guilherme.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 51.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 50.
+LaTeX Info: Redefining \microtypecontext on input line 51.
 Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -606,17 +614,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 50.
-
-(/usr/share/texmf/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmss' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-\AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 50.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 51.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -626,99 +625,104 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count100
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 
 (./Guilherme.out) (./Guilherme.out)
 \@outlinefile=\write3
 \openout3 = `Guilherme.out'.
 
-\makecvtitledetailsbox=\box29
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 52.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+\pagenumberwidth=\skip70
+\makecvtitlepicturebox=\box31
+\makecvtitlepicturewidth=\skip71
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 57.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 52.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 57.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 57.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 52.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 57.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 52.
+(Font)              <10> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 52.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 52.
+(Font)              <5> on input line 57.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 68.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 101.
+
+Overfull \hbox (632.59196pt too wide) in paragraph at lines 104--104
+[][]
+ []
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-\makecvtitlepicturebox=\box30
-\makecvtitledetailswidth=\skip68
-\makecvtitlepicturewidth=\skip69
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 105.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
- []
-
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 105.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 55.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 55.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 55.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 55.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 84.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
-
-Overfull \hbox (565.48967pt too wide) in paragraph at lines 91--91
-[][]
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 95.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 95.
-[1
+(babel)             in language  on input line 105.
+ [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 108.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./Guilherme.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `Guilherme.out' has not changed.
-(rerunfilecheck)             Checksum: F871459E6AA8DF1C3DBE98765B62FD22;526.
+(rerunfilecheck)             Checksum: 3EDC69BC14CC17B60F31E32DE1F7C2C4;627.
  ) 
 Here is how much of TeX's memory you used:
- 11577 strings out of 494964
- 166460 string characters out of 6179674
- 283528 words of memory out of 5000000
- 14651 multiletter control sequences out of 15000+600000
- 61763 words of font info for 50 fonts, out of 8000000 for 9000
+ 11549 strings out of 494964
+ 165836 string characters out of 6179674
+ 285807 words of memory out of 5000000
+ 14625 multiletter control sequences out of 15000+600000
+ 55194 words of font info for 39 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 42i,13n,53p,775b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,13n,66p,775b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme.dvi (1 page, 8408 bytes).
+Output written on Guilherme.dvi (2 pages, 11412 bytes).

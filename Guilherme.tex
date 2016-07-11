@@ -20,7 +20,7 @@
 \hyphenation{UNICAMP}
 
 
-\documentclass[11pt, a4paper, sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[10pt, a4paper, roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
 
 
 \usepackage[portuguese]{babel}
@@ -28,7 +28,8 @@
 \usepackage[T1]{fontenc}
 
 
-\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
 %\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
@@ -52,30 +53,42 @@
 \makecvtitle % Prints the CV title
 
 \section{Experiência}
+
+\subsection{Acadêmica}
+\cventry{2016 -- Presente}{Iniciação Científica}{Unicamp}{Campinas}{Brasil}
+{
+    Trabalho com processamento de dados sísmicos em arquiteturas Power (IBM), visando otimizar tal tarefa.\\
+    Competências envolvidas: Sistemas GNU/Linux e C/C++.\\ 
+    Projeto em parceria IBM e Petrobras (CEPETRO).\\
+    Orientador: Rodolfo Jardim de Azevedo.
+}
+
+\bigskip
+
 \subsection{Voluntária}
 
-\cventry{2015--Presente}{Representante Discente}{Conselho Interdepartamental do Instituto de Computação}{Campinas}{Brasil}
+\cventry{2015 -- Presente}{Representante Discente}{Conselho Interdepartamental do Instituto de Computação}{Campinas}{Brasil}
 {
 Representação dos alunos Computação Unicamp em questões sobre a 
     infraestrutura do Instituto.
 }
 
-\cventry{2014--2015}{Comissão Organizadora}{Semana de Computação da Unicamp}{Campinas}{Brasil}
+\cventry{2014 -- 2015}{Comissão Organizadora}{Semana de Computação da Unicamp}{Campinas}{Brasil}
 {
 Membro da equipe de infraestrutura da Semana de Computação da Unicamp, entrando em contato com palestrantes e planejando atividades.
 }
 
-\cventry{2014--Presente}{Coordenador Administrativo}{CACo - Centro Acadêmico da Computação}{Campinas}{Brasil}
+\cventry{2014 -- Presente}{Coordenador Administrativo}{CACo - Centro Acadêmico da Computação}{Campinas}{Brasil}
 {
 Representação dos alunos dos cursos de Engenharia e Ciência da Computação.
 }
 
 \section{Educação}
 
-\cventry{2014--Presente}{Engenharia de Computação}{Universidade Estadual de Campinas (UNICAMP)}{Campinas}{Brasil}{Ênfase em 
+\cventry{2014 -- Presente}{Engenharia de Computação}{Universidade Estadual de Campinas (UNICAMP)}{Campinas}{Brasil}{Ênfase em 
 Sistemas de Computação - AA.}
 
-\cventry{2009--2011}{Ensino Médio}{Colégio Objetivo de Pirassununga}{Pirassununga}{Brasil}
+\cventry{2009 -- 2011}{Ensino Médio}{Colégio Objetivo de Pirassununga}{Pirassununga}{Brasil}
 {
 Participação em várias edições de Olimpíadas Científicas, como Matemática, Física e Astronomia.}
 
@@ -88,7 +101,7 @@ Participação em várias edições de Olimpíadas Científicas, como Matemátic
 \section{Conhecimento Técnico}
 
 \cvitemwithcomment{}{C/C++, Java, Python, Shell Script, Git, \LaTeX, Sistemas \\GNU/Linux, Estruturas de Dados, Arduino, ARM Assembly,
-                    \\ Circuitos Digitais, HTML, CSS, JavaScript(NodeJS).}{}
+                    \\ Circuitos Digitais, HTML, CSS, JavaScript(NodeJS), VHDL.}{}
 
 
 
