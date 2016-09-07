@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  6 SEP 2016 23:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  7 SEP 2016 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,6 +449,33 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 78.
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
  color scheme: blue
 )
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks22
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -463,11 +490,9 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -496,25 +521,22 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen108
-\Hy@linkcounter=\count89
-\Hy@pagecounter=\count90
+\@linkdim=\dimen116
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count91
+\Hy@SavedSpaceFactor=\count94
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -533,12 +555,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count92
+\c@Hy@tempcnt=\count95
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen109
-\Fld@menulength=\count93
-\Field@Width=\dimen110
-\Fld@charsize=\dimen111
+\XeTeXLinkMargin=\dimen117
+\Fld@menulength=\count96
+\Field@Width=\dimen118
+\Fld@charsize=\dimen119
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -548,9 +570,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
 )
 
 Package hyperref Message: Driver (default): hdvips.
@@ -560,13 +582,13 @@ File: hdvips.def 2012/11/06 v6.83m Hyperref driver for dvips
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pdfmark.def
 File: pdfmark.def 2012/11/06 v6.83m Hyperref definitions for pdfmark specials
-\pdf@docset=\toks22
+\pdf@docset=\toks23
 \pdf@box=\box29
-\pdf@toks=\toks23
-\pdf@defaulttoks=\toks24
-\HyField@AnnotCount=\count97
-\Fld@listcount=\count98
-\c@bookmark@seq@number=\count99
+\pdf@toks=\toks24
+\pdf@defaulttoks=\toks25
+\HyField@AnnotCount=\count100
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -614,16 +636,49 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
+* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=478.00812pt
+* \textheight=676.04005pt
+* \oddsidemargin=-12.52011pt
+* \evensidemargin=-12.52011pt
+* \topmargin=-41.6673pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 51.
-
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count100
+\c@section@level=\count103
 )
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
@@ -633,9 +688,8 @@ LaTeX Info: Redefining \nameref on input line 51.
 \@outlinefile=\write3
 \openout3 = `Guilherme.out'.
 
-\pagenumberwidth=\skip70
 \makecvtitlepicturebox=\box31
-\makecvtitlepicturewidth=\skip71
+\makecvtitlepicturewidth=\skip70
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
@@ -678,38 +732,32 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 105.
 
+Overfull \hbox (499.93275pt too wide) in paragraph at lines 108--108
+[][]
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 103.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 112.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 103.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 112.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 103.
+(babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 103.
+(babel)             in language  on input line 112.
  [1
 
 ]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 105.
-
-Overfull \hbox (629.10754pt too wide) in paragraph at lines 108--108
-[][]
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 112.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 112.
-[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (./Guilherme.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 112.
@@ -718,12 +766,12 @@ Package rerunfilecheck Info: File `Guilherme.out' has not changed.
 (rerunfilecheck)             Checksum: 3EDC69BC14CC17B60F31E32DE1F7C2C4;627.
  ) 
 Here is how much of TeX's memory you used:
- 11549 strings out of 494964
- 165836 string characters out of 6179674
- 284807 words of memory out of 5000000
- 14625 multiletter control sequences out of 15000+600000
- 55194 words of font info for 39 fonts, out of 8000000 for 9000
+ 11996 strings out of 494964
+ 172440 string characters out of 6179674
+ 297760 words of memory out of 5000000
+ 15064 multiletter control sequences out of 15000+600000
+ 50931 words of font info for 38 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 53i,14n,69p,775b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,13n,67p,775b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme.dvi (2 pages, 11812 bytes).
+Output written on Guilherme.dvi (1 page, 9612 bytes).
