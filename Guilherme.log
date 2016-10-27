@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  22 OCT 2016 21:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  27 OCT 2016 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,10 +768,10 @@ Package rerunfilecheck Info: File `Guilherme.out' has not changed.
 Here is how much of TeX's memory you used:
  11996 strings out of 494964
  172440 string characters out of 6179674
- 297760 words of memory out of 5000000
+ 298760 words of memory out of 5000000
  15064 multiletter control sequences out of 15000+600000
  50931 words of font info for 38 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  53i,13n,67p,775b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme.dvi (1 page, 9744 bytes).
+Output written on Guilherme.dvi (1 page, 9804 bytes).
