@@ -1,0 +1,113 @@
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+
+\hyphenation{Campinas}
+\hyphenation{UNICAMP}
+
+
+\documentclass[10pt, a4paper, roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+%\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.80]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+\firstname{Guilherme} 
+\familyname{Lucas}
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+
+\mobile{+55 19 98279-1826}
+
+\email{guilherme.slucas@gmail.com}
+
+\begin{document}
+
+\makecvtitle % Prints the CV title
+
+\section{Experience}
+
+\subsection{Academic}
+\cventry{2016 -- Present}{Undergraduate Research}{Unicamp}{Campinas}{Brasil}
+{
+    Work with Seismic Data Processing on IBM High Performance POWER Machines. 
+    Skills: GNU/Linux Systems, C/C++, Shell Script, Python and Docker.\\ 
+    Funded by IBM(OpenPower Foundation), Petrobras (CEPETRO) and Unicamp.\\
+    Supervisor: Rodolfo Jardim de Azevedo.
+}
+
+\bigskip
+
+\subsection{Volunteer}
+\cventry{2016 -- 2016}{Teaching Assistant}{Programa de Auxílio Discente}{Campinas}{Brasil}
+{
+    Teaching assistant on Digital Circuits Subject (MC602). I applied the pratical tests, corrected exercises
+    and helped students with questions.
+}
+\cventry{2015 -- 2016}{Undergraduate Representative}{Institute of Computing - Unicamp}{Campinas}{Brasil}
+{ 
+    Undergraduate representative on the Institute of Computing. Dealing with money investiment and infrastructure 
+    affairs.
+}
+
+\cventry{2014 -- 2015}{Organizing Committee}{Computing Week Unicamp (SECOMP)}{Campinas}{Brasil}
+{
+    Infrastructure member of Computing Week from Unicamp. Contacted people to give speeches and planned activities.
+}
+
+
+\cventry{2014 -- 2016}{Administrative Officer}{CACo - Centro Acadêmico de Computação}{Campinas}{Brasil}
+{
+    Representing the students interests as Vice President of the Student's Union.
+}
+
+\section{Education}
+
+\cventry{2014 -- Present}{Computer Engineering}{University of Campinas (UNICAMP)}{Campinas}{Brasil}{Computer System 
+emphasys - AA.}
+
+%\cventry{2009 -- 2011}{Ensino Médio}{Colégio Objetivo de Pirassununga}{Pirassununga}{Brasil}
+%{
+%Participação em várias edições de Olimpíadas Científicas, como Matemática, Física e Astronomia.}
+
+\section{Languages}
+
+\cvitemwithcomment{Native}{Portuguese}{}
+\cvitemwithcomment{Fluent}{English}{}
+\cvitemwithcomment{Básic}{Spanish}{}
+
+\section{Technical Skills}
+
+\cvitemwithcomment{}{C/C++, Java, Python, Django, Shell Script, Git, \LaTeX, GNU/Linux Systems, \\Data Structures, Arduino, ARM Assembly,
+                    Digital Circuits, HTML, CSS, \\Ruby, Rails, VHDL, Docker.}{}
+
+
+
+\end{document}
