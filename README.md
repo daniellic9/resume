@@ -17,8 +17,8 @@ The options are written on the comments after the rules.
 To build your resume and convert it to pdf (it originally creates a .dvi file), type:
 
 ```
-latex "your_name".tex
-dvipdf "your_name".tex
+chmod +x build.sh (just the first time)
+./build.sh
 ```
 
 Feel free to fork and contact me.
