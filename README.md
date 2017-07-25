@@ -20,5 +20,10 @@ To build your resume and convert it to pdf (it originally creates a .dvi file), 
 chmod +x build.sh (just the first time)
 ./build.sh
 ```
+To compile this resume on Debian Based you can download ```texlive-full```, with this command:  
+
+```
+sudo apt-get install texlive-full
+```
 
 Feel free to fork and contact me.
