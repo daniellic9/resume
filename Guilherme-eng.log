@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  8 AUG 2017 00:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  8 AUG 2017 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -760,26 +760,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (./Guilherme-eng.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 117.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
-
-
-Package rerunfilecheck Warning: File `Guilherme-eng.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Guilherme-eng.out':
-(rerunfilecheck)             Before: 06755354F4BEB32675AE33AC7ECD0498;586
-(rerunfilecheck)             After:  F96727DAB53E6D3579517BDDCB3B7A3F;699.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Guilherme-eng.out' has not changed.
+(rerunfilecheck)             Checksum: F96727DAB53E6D3579517BDDCB3B7A3F;699.
  ) 
 Here is how much of TeX's memory you used:
- 11996 strings out of 494964
- 172501 string characters out of 6179674
- 298733 words of memory out of 5000000
- 15064 multiletter control sequences out of 15000+600000
+ 11997 strings out of 494964
+ 172513 string characters out of 6179674
+ 298874 words of memory out of 5000000
+ 15065 multiletter control sequences out of 15000+600000
  50929 words of font info for 38 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  53i,12n,67p,779b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme-eng.dvi (1 page, 10196 bytes).
+Output written on Guilherme-eng.dvi (1 page, 10344 bytes).
