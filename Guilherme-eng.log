@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2017.9.17)  18 OCT 2017 20:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2017.9.17)  18 OCT 2017 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -644,15 +644,15 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(14.93861pt, 567.63065pt, 14.93861pt)
-* v-part:(T,H,B)=(16.90195pt, 802.79192pt, 25.35298pt)
+* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
+* v-part:(T,H,B)=(33.80392pt, 760.53699pt, 50.70593pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=567.63065pt
-* \textheight=802.79192pt
-* \oddsidemargin=-57.33138pt
-* \evensidemargin=-57.33138pt
-* \topmargin=-92.36804pt
+* \textwidth=537.75343pt
+* \textheight=760.53699pt
+* \oddsidemargin=-42.39278pt
+* \evensidemargin=-42.39278pt
+* \topmargin=-75.46606pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -772,4 +772,4 @@ Here is how much of TeX's memory you used:
  40 hyphenation exceptions out of 8191
  42i,12n,67p,779b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme-eng.dvi (1 page, 12872 bytes).
+Output written on Guilherme-eng.dvi (1 page, 12884 bytes).
