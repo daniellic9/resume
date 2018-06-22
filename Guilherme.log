@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.3.17)  31 MAR 2018 02:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.3.17)  22 JUN 2018 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,8 +850,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
  (./Guilherme.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 132.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
-Package rerunfilecheck Info: File `Guilherme.out' has not changed.
-(rerunfilecheck)             Checksum: 3F07691EF7E995E23D5107C513810A63;740.
+
+
+Package rerunfilecheck Warning: File `Guilherme.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Guilherme.out':
+(rerunfilecheck)             Before: 58E16B38489A565A7A60136EC9E0C4CD;747
+(rerunfilecheck)             After:  3F07691EF7E995E23D5107C513810A63;740.
  ) 
 Here is how much of TeX's memory you used:
  12074 strings out of 494930
