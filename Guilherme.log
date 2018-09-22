@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.3.17)  4 SEP 2018 03:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.3.17)  22 SEP 2018 07:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -778,8 +778,9 @@ LaTeX Info: Redefining \nameref on input line 48.
 \@outlinefile=\write3
 \openout3 = `Guilherme.out'.
 
+\pagenumberwidth=\skip70
 \makecvtitlepicturebox=\box31
-\makecvtitlepicturewidth=\skip70
+\makecvtitlepicturewidth=\skip71
 
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
@@ -821,45 +822,45 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 122.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 123.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 128.
+(babel)             in language  on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 133.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 128.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 133.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 133.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 133.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (./Guilherme.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `Guilherme.out' has not changed.
 (rerunfilecheck)             Checksum: 3F07691EF7E995E23D5107C513810A63;740.
  ) 
 Here is how much of TeX's memory you used:
- 12071 strings out of 494930
- 172883 string characters out of 6180168
+ 12074 strings out of 494930
+ 172929 string characters out of 6180168
  304321 words of memory out of 5000000
- 15209 multiletter control sequences out of 15000+600000
- 48358 words of font info for 38 fonts, out of 8000000 for 9000
+ 15211 multiletter control sequences out of 15000+600000
+ 52621 words of font info for 39 fonts, out of 8000000 for 9000
  18 hyphenation exceptions out of 8191
- 42i,12n,67p,775b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,13n,67p,775b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Guilherme.dvi (1 page, 13620 bytes).
+Output written on Guilherme.dvi (1 page, 14516 bytes).
