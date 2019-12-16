@@ -102,12 +102,12 @@
   \par}% to avoid weird spacing bug at the first section if no blank line is left after \maketitle
 
 \renewcommand*{\makecvfooter}{%
-  \setlength{\footerwidth}{0.8\textwidth}%
+  \setlength{\footerwidth}{0.9\textwidth}%
   \fancypagestyle{plain}{%
     \fancyfoot[c]{%
       \parbox[b]{\footerwidth}{%
         \centering%
-        \color{color2}\addressfont%
+        \color{black}\addressfont%
         \ifthenelse{\isundefined{\@addressstreet}}{}{\addtofooter[]{\addresssymbol\@addressstreet}%
           \ifthenelse{\equal{\@addresscity}{}}{}{\addtofooter[~--~]{\@addresscity}}\flushfooter\@firstfooterelementtrue\\}% if \addresstreet is defined, \addresscity will always be defined but could be empty
         \ifthenelse{\isundefined{\@mobile}}{}{\addtofooter{\mobilesymbol\@mobile}}%
